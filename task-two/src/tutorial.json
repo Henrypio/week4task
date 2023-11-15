@@ -1,0 +1,38 @@
+[
+ {
+  "Emails": "test@example.com"
+ },
+ {
+  "Emails": "john@gmail.com"
+ },
+ {
+  "Emails": "support@decagon.com.ng"
+ },
+ {
+  "Emails": "jane@gmail.com"
+ },
+ {
+  "Emails": "sample@yahoo.com"
+ },
+ {
+  "Emails": "student@decagon.dev"
+ },
+ {
+  "Emails": "experiment@deca"
+ },
+ {
+  "Emails": "transform@gmail.com"
+ },
+ {
+  "Emails": "validator@email.co.uk"
+ },
+ {
+  "Emails": "test+example@mail.org"
+ },
+ {
+  "Emails": "almost@valid"
+ },
+ {
+  "Emails": "info@decagon.com.ng"
+ }
+]

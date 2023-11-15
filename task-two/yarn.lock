@@ -1152,6 +1152,11 @@
   resolved "https://registry.yarnpkg.com/@types/color-name/-/color-name-1.1.1.tgz#1c1261bbeaa10a8055bbc5d8ab84b7b2afc846a0"
   integrity sha512-rr+OQyAjxze7GgWrSaJwydHStIhHq2lvY3BOC2Mj7KnzI7XK0Uw1TOOdI9lDoajEbSWLiYgoo4f1R51erQfhPQ==
 
+"@types/convert-array-to-csv@2.0.2":
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/@types/convert-array-to-csv/-/convert-array-to-csv-2.0.2.tgz#a7e1dab780853ed53cc7ef339e0014ec77f160fc"
+  integrity sha512-HW/+MTAaaFAM8/1TOAnrd4wUMY/bpVPtS74obIv9rR9h64MBtzaExFZE6vjKh1ifV0CqOC6+dT4sxETh/dkMYg==
+
 "@types/eslint-visitor-keys@^1.0.0":
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/@types/eslint-visitor-keys/-/eslint-visitor-keys-1.0.0.tgz#1ee30d79544ca84d68d4b3cdb0af4f205663dd2d"
@@ -1848,6 +1853,11 @@ concat-map@0.0.1:
   resolved "https://registry.yarnpkg.com/concat-map/-/concat-map-0.0.1.tgz#d8a96bd77fd68df7793a73036a3ba0d5405d477b"
   integrity sha1-2Klr13/Wjfd5OnMDajug1UBdR3s=
 
+convert-csv-to-json@2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/convert-csv-to-json/-/convert-csv-to-json-2.0.0.tgz#500b80d9aa07759ddec7cda2cf0a600d7afa768e"
+  integrity sha512-pMDclso1Afm8tGsJfcVqay10WSPgpoGKGoHdIXWIMXJX29qayEC/MlAsd6csYr59mUjLoJxpkHi37cTUSaNUpw==
+
 convert-source-map@^1.4.0, convert-source-map@^1.6.0, convert-source-map@^1.7.0:
   version "1.7.0"
   resolved "https://registry.yarnpkg.com/convert-source-map/-/convert-source-map-1.7.0.tgz#17a2cb882d7f77d3490585e2ce6c524424a3a442"
@@ -2068,6 +2078,11 @@ email-addresses@3.1.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/email-addresses/-/email-addresses-3.1.0.tgz#cabf7e085cbdb63008a70319a74e6136188812fb"
   integrity sha512-k0/r7GrWVL32kZlGwfPNgB2Y/mMXVTq/decgLczm/j34whdaspNrZO8CnXPf1laaHxI6ptUlsnAxN+UAPw+fzg==
+
+email-validator@2.0.4:
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/email-validator/-/email-validator-2.0.4.tgz#b8dfaa5d0dae28f1b03c95881d904d4e40bfe7ed"
+  integrity sha512-gYCwo7kh5S3IDyZPLZf6hSS0MnZT8QmJFqYvbqlDZSbwdZlY6QZWxJ4i/6UhITOJ4XzyI647Bm2MXKCLqnJ4nQ==
 
 emittery@^0.7.1:
   version "0.7.1"
